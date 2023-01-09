@@ -19,7 +19,7 @@ const WelcomeMessage = () => {
         <Wrapper>
             <img src={Robot} alt="robot greeting welcome" style={{ height: "15rem" }}/>
             <Typography variant="h6" sx={{ color: "white" }}>
-                To start chatting - select a friend for conversation
+                To start chatting - select an other account for conversation
             </Typography>
         </Wrapper>
     );

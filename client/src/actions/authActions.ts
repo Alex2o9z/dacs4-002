@@ -59,7 +59,7 @@ export const registerUser = (credentials: RegisterArgs) => {
 
             dispatch(
                 showAlert(
-                    `Hi 👋 ${response.userDetails.username}. Welcome to TalkHouse. I'm Saalik, the creator of TalkHouse. You have me a as a friend till you invite and add your other friends 😊.`
+                    `Hi 👋 ${response.userDetails.username}. Welcome to WorkTogether. I'm an account of WorkTogether. You have me a as a friend till you invite and add your other friends account 😊.`
                 )
             );
         }

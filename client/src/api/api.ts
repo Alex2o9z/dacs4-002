@@ -13,8 +13,6 @@ import {
 
 const BASE_URL = "https://dacs4-002-api.onrender.com"; 
 // const BASE_URL = "http://localhost:5000"; 
-// const BASE_URL = "https://saliks-discord.herokuapp.com/";
-// const BASE_URL = "https://talkhouse-server.onrender.com/"; 
 
 const api = axios.create({
     baseURL: BASE_URL

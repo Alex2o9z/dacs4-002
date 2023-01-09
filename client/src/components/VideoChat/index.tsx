@@ -25,7 +25,7 @@ const fullScreenRoomStyle = {
 
 const minimizedRoomStyle = {
     zIndex: 200,
-    top: "0px",
+    bottom: "0px",
     right: "0px",
     width: "30%",
     height: "40vh",

@@ -3,15 +3,15 @@ import { styled } from "@mui/system";
 
 const MainContainer = styled("div")({
     borderRadius: "8px",
-    width: "100%",
-    height: "100%",
+    width: "45%!important",
+    height: "fit-content!important",
 });
 
 const VideoEl = styled("video")({
     height: "100%",
     borderRadius: "8px",
     display: "block",
-    maxWidth: "100%",
+    width: "100%",
     backgroundColor: "transparent",
 });
 
